@@ -25,7 +25,7 @@ namespace MazeGenerator
         {
             InitializeComponent();
 
-            InitializeGrid();  //Deadends Doesnt work
+            InitializeGrid();  //Dead ends Doesnt work
 
              
             while (MovetoNewCell())
